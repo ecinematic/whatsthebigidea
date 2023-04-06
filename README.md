@@ -36,7 +36,7 @@ Type `npm i` in the command line to install necessary dependencies.
 Be sure to install `npm install uuid` and `npm install express`.
   
 
-## Usage instrutions
+## Usage instructions
 
 Run the following command in the root directory of your project to start the server:
   
