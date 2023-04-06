@@ -13,7 +13,8 @@ Express.js: Note Taker
 
 ## Link  
 
-[Click here]([https://github.com/ecinematic/whatsthebigidea]) to view the application deployed on GitHub. 
+[Click here](https://github.com/ecinematic/whatsthebigidea) to view the application deployed on GitHub. 
+
 [Click here]([https://ecinematic.github.io/whatsthebigidea/]) to view the application deployed on GitHub Pages.   
 
 ## Description  
