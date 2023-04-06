@@ -7,7 +7,7 @@ Express.js: Note Taker
 * [Description](#description)
 * [Screenshot](#screenshot)
 * [Installation](#installation)
-* [Usage Instructions](#usage-instructions)
+* [Usage instructions](#usage-instructions)
 * [Technologies Used](#technologies-used)
 * [License](#license)
 
